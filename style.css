@@ -1,0 +1,30 @@
+*{
+    background-color: #222;
+    color : aliceblue;
+    font-family: 'Open Sans', 'Comic Sans MS', sans-serif;
+}
+
+body{
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+}
+
+h1,h3{
+    line-height: 1.2;
+}
+a{
+    color:rgb(75, 152, 224)
+}
+
+.moodle{
+    color: #f98012
+}
+
+.webmail{
+    color: #902123
+}
+
+img{
+    border-radius: 30px;
+}
